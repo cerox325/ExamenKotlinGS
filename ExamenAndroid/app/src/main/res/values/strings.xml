@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="title_item_movies">Titulo Default</string>
+    <string name="tagline_item_movies">Tagline Default</string>
+    <string name="status_item_movies">Status Default</string>
+    <string name="desc_img_item_movies">Desc</string>
+    <string name="add_img_main_activity">Selecciona Imagen para subir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
